@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/587353849b7d054c897f040949966e8d85fa6be7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26cb96fccda28077370398613856e5d0438f826a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/27f4daa129e9e58866c789981fb399e763cb86f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e974a0b490106d23fbfa08bbe5979ee8e924f747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6c99583e97be3577a82e722e1929d8a0972b8a28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/2c59dde070976ae18f15d421bcc3f5d837f65430/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93bdcb260d2a825068be5a112f3448294759622d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/4c0bdf0036572c915ed63513a560ade3c6a93f1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f89f71dcdf4b900812bb1df1536e927da21673d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/e9d03fde770f50515e73cc640e3538101a288f42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b3fbc7675983976f663e022d380392bf87f1d21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_388943e7d2cda20815084cf0461acdddf09fab1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/0e5ccd8e0b4f5eecb83495af4b2844da0329677a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5909917a742fb0289fd58d1be3b3fbf524ff5ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/225fd49767dd4c50e74486cb2c006536335d4060/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74235dabb17cac1c1c2bfc4f4278b8fa3d80057b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/437f25418e5d017b4b74f0deef610bfd94d91758/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cfe37bbeb8f095fbe506e2906300f9178bc1278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/670d0d170d7c17cf0ca8aa40d192240cb93884d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8c49c063ffc48c4e658e90ac30aa760fed567ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6388fd8cfcc1682b1992dd1daed21906a30e8ade">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e000c76df40d302801b153b44ad8d6f69bab79b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/eec050f284914965c6ee63df16657b7484989157/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3458fc184cf6c1f25dedba5c3956f0f2732ccb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanschmutz/.android/build-cache/69db398ae2d45b17912c78d9fd0207aede1f02f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/jonathanschmutz/Documents/ZETA/TECH/ANDROID APPS TESTS/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c16bd9c57fce450908c617795beac9a98681c291/classes.dex" />
+    </item>
+
+</items>
